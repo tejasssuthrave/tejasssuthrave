@@ -1,24 +1,27 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tejas%20Suthrave&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tejas%20Suthrave&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Cloud+%7C+AI+Engineer;Full-Stack+Developer;AWS+%7C+System+Design+%7C+ML;Building+Scalable+Real-World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%7C+DevOps+Engineer;AWS+%7C+System+Design;AI%2FML+%7C+Automation;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🚀 I build **scalable, production-ready systems** combining  
-**Cloud ☁️ + AI 🤖 + Full-Stack 🌐**
+I’m a developer focused on building **scalable, efficient, and production-ready systems** across **Cloud, DevOps, and AI/ML**.
 
-- ⚡ Strong focus on **AWS architecture & system design**
-- 🧠 Building **AI-powered real-world solutions**
-- 🎯 Not just projects — I design **end-to-end systems**
-- 📍 Passionate about solving **real scalability problems**
+My work revolves around designing infrastructure, automating workflows, and developing intelligent solutions that solve real-world problems. I enjoy working at the intersection of **system design, cloud architecture, and machine learning**, where performance, reliability, and cost optimization matter.
+
+I have hands-on experience with **AWS services, Linux systems, and automation tools**, and I actively build projects that reflect real industry use-cases rather than isolated features.
+
+My approach is simple:
+- Build systems that are **scalable and maintainable**
+- Focus on **real-world impact**
+- Continuously improve through **practical implementation**
 
 ---
 
@@ -36,80 +39,57 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts" /><br/>
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker" /><br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea" />
 
 </p>
 
 ---
 
-## 🚀 Featured Work
-
-### 🔥 EdgeServe — Cloud Content Platform
-> Secure, scalable AWS-based content ingestion & distribution  
-✔️ Designed VPC architecture (EC2, ALB, S3)  
-✔️ Focus: **performance + security + cost optimization**
-
----
-
-### 💰 Smart Cloud Cost Optimization Assistant
-> AI system to reduce AWS cloud costs  
-✔️ Detects idle resources  
-✔️ Intelligent cost-saving insights  
+### 🖥️ Linux Administration
+`RHEL` `CentOS` `Amazon Linux`  
+`User & Group Management` `File Permissions`  
+`yum/dnf` `Process & Service Management`  
+`Disk & File Systems` `Mounting` `/etc/fstab`  
+`SSH` `Log Monitoring`
 
 ---
 
-### 📱 Namma Split — Expense Splitting App
-> Full-stack mobile + web application  
-✔️ Real-time group expense tracking  
-✔️ Smart settlement system  
+### ☁️ AWS Cloud
+`EC2` `EBS` `Snapshots` `S3 (Versioning, Lifecycle)`  
+`IAM` `RDS` `Auto Scaling` `Load Balancer`  
+`VPC` `Bedrock`
 
 ---
 
-## 📊 GitHub Intelligence
+### 💻 Programming
+`Python` `C` `C++` `Java`  
+`Verilog` `SystemVerilog`
+
+---
+
+### ⚙️ Automation & Scripting
+`Shell Scripting` `Cron Jobs` `Task Automation`
+
+---
+
+### 🛠️ Tools & Platforms
+`Git` `VS Code` `PyCharm` `IntelliJ`  
+`Google Colab` `ModelSim` `OpenROAD`  
+`UVM` `Streamlit`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasssuthrave&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasssuthrave&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasssuthrave&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasssuthrave&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejasssuthrave&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Elite Touch)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🧩 What Sets Me Apart
-
-✔️ I think in **systems, not features**  
-✔️ I combine **Cloud + AI (rare combo)**  
-✔️ I build **real-world, scalable solutions**  
-✔️ I focus on **impact, not just code**
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -118,17 +98,4 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## ⚡ Philosophy
-
-> "I don't just write code — I build systems that scale."
-
----
-
-<!-- 🔻 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
