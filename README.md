@@ -18,11 +18,6 @@ My work revolves around designing infrastructure, automating workflows, and deve
 
 I have hands-on experience with **AWS services, Linux systems, and automation tools**, and I actively build projects that reflect real industry use-cases rather than isolated features.
 
-My approach is simple:
-- Build systems that are **scalable and maintainable**
-- Focus on **real-world impact**
-- Continuously improve through **practical implementation**
-
 ---
 
 ## 🌐 Portfolio
@@ -37,55 +32,45 @@ My approach is simple:
 
 ## ⚡ Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center"><b>💻 Programming</b><br/><br/>
+Python • Java • C • C++<br/>
+Verilog • SystemVerilog
+</td>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,linux,docker" /><br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea" />
+<td align="center"><b>☁️ Cloud (AWS)</b><br/><br/>
+EC2 • EBS • S3 • IAM<br/>
+RDS • VPC • Auto Scaling<br/>
+Load Balancer • Bedrock
+</td>
+</tr>
 
-</p>
+<tr>
+<td align="center"><b>🖥️ Linux</b><br/><br/>
+RHEL • CentOS • Amazon Linux<br/>
+User & Group • Permissions<br/>
+yum/dnf • SSH • Logs
+</td>
 
----
+<td align="center"><b>⚙️ DevOps & Automation</b><br/><br/>
+Shell Scripting • Cron Jobs<br/>
+Task Automation • Docker
+</td>
+</tr>
 
-### 🖥️ Linux Administration
-`RHEL` `CentOS` `Amazon Linux`  
-`User & Group Management` `File Permissions`  
-`yum/dnf` `Process & Service Management`  
-`Disk & File Systems` `Mounting` `/etc/fstab`  
-`SSH` `Log Monitoring`
+<tr>
+<td align="center"><b>🛠️ Tools</b><br/><br/>
+Git • VS Code • PyCharm<br/>
+IntelliJ • Colab
+</td>
 
----
-
-### ☁️ AWS Cloud
-`EC2` `EBS` `Snapshots` `S3 (Versioning, Lifecycle)`  
-`IAM` `RDS` `Auto Scaling` `Load Balancer`  
-`VPC` `Bedrock`
-
----
-
-### 💻 Programming
-`Python` `C` `C++` `Java`  
-`Verilog` `SystemVerilog`
-
----
-
-### ⚙️ Automation & Scripting
-`Shell Scripting` `Cron Jobs` `Task Automation`
-
----
-
-### 🛠️ Tools & Platforms
-`Git` `VS Code` `PyCharm` `IntelliJ`  
-`Google Colab` `ModelSim` `OpenROAD`  
-`UVM` `Streamlit`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasssuthrave&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<td align="center"><b>🔬 EDA / AI Tools</b><br/><br/>
+ModelSim • OpenROAD • UVM<br/>
+Streamlit
+</td>
+</tr>
+</table>
 
 ---
 
