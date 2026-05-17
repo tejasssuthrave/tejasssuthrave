@@ -32,7 +32,7 @@ Interested in:
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://tejasssuthrave.github.io/tejas-s-suthrave_portfolio/">
+  <a href="https://tejasssuthrave.github.io/tejasss_portfolio/">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
